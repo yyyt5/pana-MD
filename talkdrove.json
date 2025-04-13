@@ -1,10 +1,10 @@
 {
-  "bot-name": "KHAN-MD",
+  "bot-name": "PODDA-MD",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
   "keywords": ["KHAN-MD"],
   "documentation-link": "https://khanmdx.onrender.com",
-  "owner-verification": "randulayasiru2008@gmail.com",
+  "owner-verification": "randulayasiru94@gmail.com",
 
   "env": {
     "SESSION_ID": {
